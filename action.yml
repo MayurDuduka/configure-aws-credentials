@@ -1,4 +1,4 @@
-name: '"Configure AWS Credentials" Action For GitHub Actions using node16'
+name: '"Configure AWS Credentials with node16" Action For GitHub Actions using node16'
 description: 'Configure AWS credential and region environment variables for use with the AWS CLI and AWS SDKs'
 branding:
   icon: 'cloud'
